@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: RafaelGebara
+Nome: Rafael Farah Gebara
 
-RA: >>> PREENCHER <<<
+RA: 230004552
 
 Conta GitHub: @RafaelGebara
 
