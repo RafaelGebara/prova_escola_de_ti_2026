@@ -1,0 +1,54 @@
+{
+  "schema": 1,
+  "repo": "prova_escola_de_ti_2026",
+  "repo_url": "https://github.com/RafaelGebara/prova_escola_de_ti_2026",
+  "exam_dir": "exams/2026/track-01-especificacao-sdd",
+  "track": "track-01-especificacao-sdd",
+  "issue": 1,
+  "issue_url": "https://github.com/RafaelGebara/prova_escola_de_ti_2026/issues/1",
+  "gerado_em": "2026-10-08T00:01:15+00:00",
+  "fechada_em": "2026-10-08T00:00:04Z",
+  "aplicada": true,
+  "motivo": null,
+  "aluno": {
+    "login": "RafaelGebara",
+    "ra": "230004552",
+    "nome": "Rafael Farah Gebara"
+  },
+  "variante": {
+    "slug": "prova_escola_de_ti_2026",
+    "EXAM_DIR": "exams/2026/track-01-especificacao-sdd",
+    "TARIFA_HORA_CENTAVOS": 600,
+    "FRACAO_MINUTOS": 30,
+    "TETO_DIARIO_CENTAVOS": 5000,
+    "PORTA_SERVICO": 8005,
+    "TOLERANCIA_MINUTOS": 10
+  },
+  "janela": {
+    "minutos": 120,
+    "t0": "2026-10-07T22:12:03Z",
+    "ultimo_push": "2026-10-07T20:55:21-03:00"
+  },
+  "commits": {
+    "total": 14,
+    "autores": [
+      "RafaelGebara"
+    ],
+    "primeiro": "2026-10-07T19:06:35-03:00",
+    "ultimo": "2026-10-07T20:55:21-03:00",
+    "fora_da_janela": 0
+  },
+  "nota_parcial": {
+    "valor": null,
+    "criterios": {}
+  },
+  "auto_correcao": {
+    "executada": true,
+    "nota_ultima": 15
+  },
+  "fontes": {
+    "presente": true,
+    "declarou_vazio": false,
+    "links": 0
+  }
+}
